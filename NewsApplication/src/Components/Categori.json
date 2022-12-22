@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "label": "All",
+        "value": "all"
+    },
+    {
+        "id": 2,
+        "label": "National",
+        "value": "national"
+    },
+    {
+        "id": 3,
+        "label": "Business",
+        "value": "business"
+    },
+    {
+        "id": 4,
+        "label": "Sports",
+        "value": "sports"
+    },
+    {
+        "id": 5,
+        "label": "World",
+        "value": "world"
+    },
+    {
+        "id": 6,
+        "label": "Politics",
+        "value": "politics"
+    },
+    {
+        "id": 7,
+        "label": "Technology",
+        "value": "technology"
+    },
+    {
+        "id": 8,
+        "label": "Startup",
+        "value": "startup"
+    },
+    {
+        "id": 9,
+        "label": "Entertainment",
+        "value": "entertainment"
+    },
+    {
+        "id": 10,
+        "label": "Miscellaneous",
+        "value": "miscellaneous"
+    },
+    {
+        "id": 11,
+        "label": "Hatke",
+        "value": "hatke"
+    },
+    {
+        "id": 12,
+        "label": "Science",
+        "value": "science"
+    },
+    {
+        "id": 13,
+        "label": "Automobile",
+        "value": "automobile"
+    }
+]

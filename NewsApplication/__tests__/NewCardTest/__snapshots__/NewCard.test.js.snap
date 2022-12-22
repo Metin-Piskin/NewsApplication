@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View>
+  <Text>
+    Null
+  </Text>
+</View>
+`;
+
+exports[`renders correctly 2`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#e0e0e0",
+      "borderBottomWidth": 10,
+      "borderRightWidth": 10,
+      "marginHorizontal": 5,
+      "marginLeft": 10,
+      "marginTop": 10,
+      "maxWidth": 375,
+      "opacity": 1,
+    }
+  }
+  testID="new-card-press"
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      {
+        "height": 270,
+        "justifyContent": "flex-end",
+        "marginHorizontal": 5,
+        "marginVertical": 5,
+        "maxWidth": 352,
+        "resizeMode": "contain",
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "uri": undefined,
+        }
+      }
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "height": 270,
+            "width": undefined,
+          },
+          undefined,
+        ]
+      }
+      testID="new-card-imagebackground"
+    />
+    <Text
+      style={
+        {
+          "backgroundColor": "rgba(52, 52, 52, 0.8)",
+          "color": "#fff",
+          "fontFamily": "ChakraPetch-MediumItalic",
+          "fontSize": 20,
+          "paddingHorizontal": 10,
+        }
+      }
+      testID="new-card-title"
+    />
+  </View>
+  <Text
+    style={
+      {
+        "color": "#000",
+        "fontFamily": "ChakraPetch-Bold",
+        "paddingHorizontal": 5,
+      }
+    }
+    testID="new-card-content"
+  />
+  <Text
+    style={
+      {
+        "alignSelf": "flex-end",
+        "color": "red",
+        "fontFamily": "ChakraPetch-Bold",
+        "paddingHorizontal": 5,
+      }
+    }
+    testID="new-card-author"
+  />
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "paddingHorizontal": 15,
+      }
+    }
+    testID="new-card-innercontainer"
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+          "fontFamily": "CourierPrime-Bold",
+          "fontSize": 15,
+        }
+      }
+      testID="new-card-date"
+    />
+    <Text
+      style={
+        {
+          "color": "#000",
+          "fontFamily": "CourierPrime-Bold",
+          "fontSize": 15,
+        }
+      }
+      testID="new-card-time"
+    />
+  </View>
+</View>
+`;
